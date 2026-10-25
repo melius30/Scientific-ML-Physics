@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.out
+*.err
+*~
+.env
+.env.*
+*.key
+*.pem
+.DS_Store
+
+# Exclude temporary notebooks and course assignment PDFs
+Untitled.ipynb
+Untitled*.ipynb
+Project2_Neural_Networks_Optimization/Project2_part1F25.pdf
+Project3_Physics_Informed_Neural_Networks/ME249Project3_F25.pdf
